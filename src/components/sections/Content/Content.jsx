@@ -1,5 +1,5 @@
 import { AppContext } from "../../../context";
-import Card from "../../shared/Card/Card";
+import Card from "../../shared/Card";
 import PropTypes from 'prop-types';
 import { useContext } from "react";
 import clsx from "clsx";
